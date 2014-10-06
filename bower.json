@@ -1,0 +1,7 @@
+{
+	"name": "cldr-ecma402",
+	"version": "26.0",
+	"ignore": [
+		".gitattributes",
+	]
+}
