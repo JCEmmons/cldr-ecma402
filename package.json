@@ -1,0 +1,47 @@
+{
+	"name": "cldr-ecma402",
+	"version": "26.0",
+	"keywords": [
+	    "utility",
+	    "globalization",
+	    "internationalization",
+	    "multilingualization",
+	    "localization",
+	    "g11n",
+	    "i18n",
+	    "m17n",
+	    "L10n",
+	    "localize",
+	    "format",
+	    "parse",
+	    "translate",
+	    "strings",
+	    "numbers",
+	    "dates",
+	    "times",
+	    "calendars",
+	    "cultures",
+	    "languages",
+	    "locales"
+	],
+	"homepage": "https://github.com/ibm-js/cldr-ecma402",
+	"author": "The Unicode Consortium",
+	"maintainers": [
+		{
+		  "name": "John Emmons",
+		  "email": "emmo@us.ibm.com",
+		  "url": "https://github.com/JCEmmons"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ibm-js/cldr-ecma402.git"
+	},	
+	"licenses": [
+		{
+			"type": "Unicode",
+			"url": "https://github.com/ibm-js/cldr-ecma402/blob/master/LICENSE"
+		}
+	],
+	"bugs": "https://github.com/ibm-js/cldr-ecma402/issues"
+}
