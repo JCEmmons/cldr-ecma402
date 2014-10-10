@@ -24,7 +24,7 @@
 	    "languages",
 	    "locales"
 	],
-	"homepage": "https://github.com/ibm-js/cldr-ecma402",
+	"homepage": "https://github.com/JCEmmons/cldr-ecma402",
 	"author": "The Unicode Consortium",
 	"maintainers": [
 		{
@@ -35,13 +35,13 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/ibm-js/cldr-ecma402.git"
+		"url": "git://github.com/JCEmmons/cldr-ecma402.git"
 	},	
 	"licenses": [
 		{
 			"type": "Unicode",
-			"url": "https://github.com/ibm-js/cldr-ecma402/blob/master/LICENSE"
+			"url": "https://github.com/JCEmmons/cldr-ecma402/blob/master/LICENSE"
 		}
 	],
-	"bugs": "https://github.com/ibm-js/cldr-ecma402/issues"
+	"bugs": "https://github.com/JCEmmons/cldr-ecma402/issues"
 }
